@@ -5,4 +5,7 @@
 </template>
 
 <style lang="scss">
+#app{
+  font-family: 'Noto Sans TC', sans-serif;
+}
 </style>
