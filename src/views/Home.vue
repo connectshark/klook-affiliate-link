@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    <h1 class="title">klook聯盟行銷網址</h1>
+    <h1 class="title"><a :href="link" target="_blank">Klook聯盟行銷網址</a></h1>
     <div class="card">
       <div class="row">
         <h2>填入聯合行銷ID(AID)</h2>
@@ -52,7 +52,8 @@ export default {
     return {
       aid: 18191,
       target: '',
-      result: ''
+      result: '',
+      link: 'https://affiliate.klook.com/redirect?aid=18191&aff_adid=548824&k_site=https%3a%2f%2fwww.klook.com%2fzh-TW%2f'
     }
   },
   methods: {
