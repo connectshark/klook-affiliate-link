@@ -2,7 +2,7 @@
 import { ref } from 'vue'
 import copy from 'copy-text-to-clipboard'
 
-const url = ref('https://www.klook.com/zh-TW/activity/21873-eatogether-taiwan/')
+const url = ref('')
 const adid = 18192
 
 const result = ref('')
