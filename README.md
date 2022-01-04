@@ -1,5 +1,5 @@
 # klook-affiliate-link
-[![build status](https://github.com/connectshark/klook-affiliate-link/actions/workflows/deploy.yml/badge.svg?branch=main)](https://github.com/connectshark/klook-affiliate-link/actions/workflows/deploy.yml)
+[![Build and Deploy](https://github.com/connectshark/klook-affiliate-link/actions/workflows/deploy.yml/badge.svg)](https://github.com/connectshark/klook-affiliate-link/actions/workflows/deploy.yml)
 [![GitHub last commit](https://img.shields.io/github/last-commit/connectshark/klook-affiliate-link.svg?style=flat)](https://github.com/connectshark/klook-affiliate-link)
 ![GitHub stars](https://img.shields.io/github/stars/connectshark/klook-affiliate-link.svg?style=social&label=Stars&style=plastic)
 
